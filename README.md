@@ -204,3 +204,14 @@ CI/CD | GitHub Actions
 テスト | Rubocop(MVP)
 | | ESLint(MVP) |  
 | |Rspec(本リリース時) |  
+
+
+# ER図
+
+## ER図リンク
+
+[ER図](https://dbdiagram.io/d/66c6a5aca346f9518cbd1faf)
+
+## ER図画像
+
+[![Image from Gyazo](https://i.gyazo.com/ac652fba727a4ae4da4b2c81d9d9c6f1.png)](https://gyazo.com/ac652fba727a4ae4da4b2c81d9d9c6f1)
