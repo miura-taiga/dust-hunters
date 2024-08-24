@@ -214,4 +214,4 @@ CI/CD | GitHub Actions
 
 ## ER図画像
 
-[![Image from Gyazo](https://i.gyazo.com/ac652fba727a4ae4da4b2c81d9d9c6f1.png)](https://gyazo.com/ac652fba727a4ae4da4b2c81d9d9c6f1)
+[![Image from Gyazo](https://i.gyazo.com/be7903363c0b59d9feddf1c398172ba6.png)](https://gyazo.com/be7903363c0b59d9feddf1c398172ba6)
