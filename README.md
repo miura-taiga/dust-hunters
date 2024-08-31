@@ -206,7 +206,22 @@ CI/CD | GitHub Actions
 | |Rspec(本リリース時) |  
 
 
+# 画面遷移図
+
+## FigmaURL
+
+https://www.figma.com/board/sAzTNXPLSa3DvkeypbFgwv/Dsut-Hunters(%E3%83%80%E3%82%B9%E3%83%88%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC)?node-id=0-1&t=MobcCDLiXho176uX-1
+
+## デモアプリURL
+
+https://dust-hunters-demo-front.vercel.app
+
+## 画面遷移図一覧画像
+
+[![Image from Gyazo](https://i.gyazo.com/f49ef7f211b8509e50c4a60fd71dca0a.jpg)](https://gyazo.com/f49ef7f211b8509e50c4a60fd71dca0a)
+
 # ER図
+
 
 ## ER図リンク
 
